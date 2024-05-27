@@ -314,22 +314,12 @@
             "changeable": 1
         },
         {
-            "key": "影探蓝光",
-            "name": "影探蓝光",
-            "type": 3,
-            "api": "csp_App",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "z6aMzDclLwZa7eCQN0nAaMJTu+8HfYERSWRA9AuiPd5ju12RwkZY66pe1tXgTKme4myqMhNAu9a5aDusX/CFhq0GULMcLI0pBe4sO5Jk9iHT4EzGybWth1IYcQZzmT/Uknh6TZ6cHKTEuxhe9kEcbHe/matKBgar76JHg9Ss2kMqYgvU1NSsFSnVVAE7LeVECZO0XGQyrUS8VCpRjkdBsxmMhpS0QcwkxE57v9xCb+A="
-        },
-        {
             "key": "耐看影视",
             "name": "耐看影视",
             "type": 3,
             "api": "csp_AppNK",
             "searchable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "wZB2IYYD+8ueQYpVwNaeD9aWApRB50dhdsn0OGaiy7TzSEVFMPaUfP2IAhTWawXLgmBeISnN/ofFRtSAyaR1VuyyMIMe3u73MLA9RoQufYOihJUTbZl+jdef+X40n5RBuTS2EtpQjp5pWeakl4S99w=="
         },
         {
@@ -338,7 +328,7 @@
             "type": 3,
             "api": "csp_AppNK",
             "searchable": 1,
-            "changeable": 0,
+            "changeable": 1,
             "ext": "mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w=="
         },
         {
@@ -436,7 +426,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://v.ikanbot.com"
+            "ext": "https://v.aikanbot.com"
         },
         {
             "key": "新视觉",
@@ -464,6 +454,13 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/爱奇艺.js"
+        },
+        {
+            "key": "三六零",
+            "name": "三六零",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/三六零.js"
         },
         {
             "key": "追剧迷",
@@ -522,6 +519,13 @@
             "ext": "./JS/芒果视频.js"
         },
         {
+            "key": "搜狗视频",
+            "name": "搜狗视频",
+            "type": 3,
+            "api": "./JS/drpy2.min.js",
+            "ext": "./JS/搜狗视频.js"
+        },
+        {
             "key": "乐鱼影视",
             "name": "乐鱼影视",
             "type": 3,
@@ -569,16 +573,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/畅梦影视.js"
-        },
-        {
-            "key": "蛋蛋影视",
-            "name": "蛋蛋影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/蛋蛋影视.json"
         },
         {
             "key": "五五影视",
