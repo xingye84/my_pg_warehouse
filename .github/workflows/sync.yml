@@ -2,7 +2,7 @@ name: Sync Fork
 
 on:
   schedule:
-    - cron: '0 0 1/2 * *' # every 30 minutes
+    - cron: '0 22 * * *' # every 30 minutes
   workflow_dispatch: # on button click
 
 jobs:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: tgymnich/fork-sync@v1.9
+      - uses: tgymnich/fork-sync@v2.0.9
         with:
           owner: PizazzGY
           repo: TVBox_warehouse
