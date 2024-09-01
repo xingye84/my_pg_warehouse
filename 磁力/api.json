@@ -46,7 +46,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "site": "https://www.yjys01.com",
+                "site": "https://www.yjys02.com",
                 "danmu": true
             },
             "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75"
@@ -137,16 +137,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./XYQHiker/电影港.json"
-        },
-        {
-            "key": "好恐怖",
-            "name": "好恐怖｜磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/好恐怖.json"
         },
         {
             "key": "小白网",
