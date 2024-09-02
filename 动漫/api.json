@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/danmu.jar;md5;e961e2480dd0836397d58159a8fb8d57",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -73,13 +73,6 @@
             "ext": "./JS/喵物次元.js"
         },
         {
-            "key": "妮可动漫",
-            "name": "妮可｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/妮可动漫.js"
-        },
-        {
             "key": "奇米动漫",
             "name": "奇米｜动漫",
             "type": 3,
@@ -99,13 +92,6 @@
             "type": 3,
             "api": "./JS/drpy2.min.js",
             "ext": "./JS/花子动漫.js"
-        },
-        {
-            "key": "驴番动漫",
-            "name": "驴番｜动漫",
-            "type": 3,
-            "api": "./JS/drpy2.min.js",
-            "ext": "./JS/驴番动漫.js"
         },
         {
             "key": "动漫巴士",
@@ -165,97 +151,96 @@
             "url": "Demo"
         },
         {
-            "name": "推荐",
-            "type": "1",
-            "url": "http://43.248.100.147:1122/bba/json.php?url=",
+            "name": "XGJ专线",
+            "url": "http://43.248.100.147:1122/bba/xgjjson.php?url=",
             "flag": [
                 "BBA"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐1",
-            "type": "1",
+            "name": "XMY专线",
             "url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=",
             "flag": [
                 "NBY"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐2",
-            "type": "1",
+            "name": "LX专线",
             "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
             "flag": [
                 "LXTX"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐3",
-            "type": "1",
+            "name": "OL专线",
             "url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=",
             "flag": [
                 "BTOL"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐4",
-            "type": "1",
-            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
+            "name": "4K专线",
+            "url": "http://110.42.7.182:881/api/?key=qEDfo9v5Uk48DVmu6W&url=",
             "flag": [
                 "4kvip"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐5",
-            "type": "1",
-            "url": "http://110.42.7.182:881/api/?key=KzBLknjaz7nv2de8Yn&url=",
-            "flag": [
-                "nmys"
-            ],
-            "header": {
-                "User-Agent": "Dalvik/2.1.0"
-            }
-        },
-        {
-            "name": "推荐6",
-            "type": "1",
-            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "name": "MX专线",
+            "url": "http://110.42.7.182:881/api/?key=qEDfo9v5Uk48DVmu6W&url=",
             "flag": [
                 "m78"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐7",
-            "type": "1",
+            "name": "BD专线",
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "nmys"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "MY专线",
             "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
             "flag": [
                 "mytv"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐8",
-            "type": "1",
-            "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+            "name": "XGJ专线",
+            "url": "http://43.248.119.153:9991/jx/?url=",
             "flag": [
                 "youku",
                 "qq",
@@ -267,12 +252,12 @@
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐9",
-            "type": "1",
-            "url": "http://43.248.100.147:1122/XGJ/keyef2f3dc4asd1fd564f132asc2asd1f.php?url=",
+            "name": "XGJ聚合",
+            "url": "http://43.248.100.147:1122/XGJ/jxzy.php?url=",
             "flag": [
                 "youku",
                 "qq",
@@ -286,24 +271,24 @@
                 "mytv",
                 "nmys",
                 "BTOL",
-                "caihongyun",
                 "4kvip",
                 "m78"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
-            "name": "推荐10",
-            "type": "1",
+            "name": "DM专线",
             "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
             "flag": [
                 "yhdm"
             ],
             "header": {
                 "User-Agent": "Dalvik/2.1.0"
-            }
+            },
+            "type": "1"
         },
         {
             "name": "线路1",
@@ -496,7 +481,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "https://gitdl.cn/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
+            "url": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/live.txt",
             "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}"
         }

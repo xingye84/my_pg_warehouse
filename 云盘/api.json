@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/danmu.jar;md5;1c42ad649c8b8acdfb944509d62bda75",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/danmu.jar;md5;e961e2480dd0836397d58159a8fb8d57",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -114,6 +114,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -130,6 +131,7 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "site": "http://wobgg.run-us-west2.goorm.io",
                 "danmu": true
             }
         },
@@ -223,6 +225,22 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克木偶弹幕",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "http://mogg.top",
                 "danmu": true
             }
         },
