@@ -1,16 +1,13 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
             "key": "兔小贝",
-            "name": "兔小贝｜儿童",
+            "name": "兔小贝｜首页",
             "type": 3,
             "api": "./js/drpy2.min.js",
-            "ext": "./js/兔小贝.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0
+            "ext": "./js/兔小贝.js"
         },
         {
             "key": "配置中心",
@@ -24,6 +21,13 @@
                 "type": "rect",
                 "ratio": 1.597
             }
+        },
+        {
+            "key": "贝乐虎",
+            "name": "贝乐虎｜儿童",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/贝乐虎.js"
         },
         {
             "key": "儿童拼音",
@@ -337,12 +341,6 @@
             "name": "直播3",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 1
-        },
-        {
-            "name": "直播4",
-            "type": 0,
-            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
             "playerType": 1
         }
     ],

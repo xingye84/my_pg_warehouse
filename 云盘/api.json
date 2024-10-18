@@ -1,5 +1,5 @@
 {
-    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/xingye84/my_pg_warehouse/my/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -88,6 +88,16 @@
             }
         },
         {
+            "key": "短剧合集",
+            "name": "短剧｜合集",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/短剧合集.js",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "玩偶弹幕",
             "name": "玩偶哥哥｜4K弹幕",
             "type": 3,
@@ -120,8 +130,8 @@
             }
         },
         {
-            "key": "夸克玩偶弹幕",
-            "name": "玩偶表哥｜4K弹幕",
+            "key": "夸克欧歌弹幕",
+            "name": "欧哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "searchable": 1,
@@ -131,7 +141,8 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "site": "http://wobgg.run-us-west2.goorm.io",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
         },
@@ -241,20 +252,6 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
                 "site": "http://mogg.top",
-                "danmu": true
-            }
-        },
-        {
-            "key": "夸克团长弹幕",
-            "name": "团长｜4K弹幕",
-            "type": 3,
-            "api": "csp_Tzfile",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -511,12 +508,6 @@
             "name": "直播3",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
-            "playerType": 1
-        },
-        {
-            "name": "直播4",
-            "type": 0,
-            "url": "http://mmitv.top/pltv/merization.php?id=list&user=t0k1b5&token=17af41bb&text=diypbox",
             "playerType": 1
         }
     ],
