@@ -374,15 +374,6 @@
             "filterable": 1
         },
         {
-            "key": "笙歌影视",
-            "name": "笙歌｜APP",
-            "type": 3,
-            "api": "csp_AppYY",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "忍者影视",
             "name": "忍者｜APP",
             "type": 3,
@@ -535,15 +526,6 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
-        },
-        {
-            "key": "看看影视",
-            "name": "看看｜影视",
-            "type": 3,
-            "api": "csp_WebIV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
         },
         {
             "key": "视频库",
@@ -1043,6 +1025,19 @@
                     "DJWX",
                     "DJWT",
                     "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+        {
+            "name": "BBA专线",
+            "type": "1",
+            "url": "http://43.248.100.147:6068/bba/bbajson.php?url=",
+            "ext": {
+                "flag": [
+                    "BBA"
                 ],
                 "header": {
                     "User-Agent": "Dalvik/2.1.0"
