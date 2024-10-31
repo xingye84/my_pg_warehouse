@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7c6313a06cdbfc2df09723838e3d14a8",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -35,18 +35,46 @@
             "filterable": 1
         },
         {
-            "key": "斗鱼直播",
-            "name": "斗鱼｜直播",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/斗鱼直播.js"
-        },
-        {
             "key": "虎牙直播",
             "name": "虎牙｜直播",
             "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/虎牙直播.js"
+            "api": "csp_AmuHuYa",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "斗鱼直播",
+            "name": "斗鱼｜直播",
+            "type": 3,
+            "api": "csp_AmuDouYu",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
+        },
+        {
+            "key": "抖音直播",
+            "name": "抖音｜直播",
+            "type": 3,
+            "api": "csp_AmuDouYin",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "哔哩直播",

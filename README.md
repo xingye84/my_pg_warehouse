@@ -1,8 +1,10 @@
-# 关注公众号：四次元分享 获取软件及其它资源
+# 公众号被封，暂时没有计划维护新公众号，线路正常维护
 
-# TVBox自用资源
+# 软件及资源
 
-在线源订阅地址：
+https://www.123pan.com/s/sPNbVv-67SXv
+
+# 在线源订阅链接：
 
 https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt
 
