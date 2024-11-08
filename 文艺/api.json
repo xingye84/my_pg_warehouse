@@ -1,5 +1,5 @@
 {
-    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+    "spider": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
     "wallpaper": "https://api.likepoems.com/img/bing",
     "sites": [
         {
@@ -56,6 +56,33 @@
             "type": 3,
             "api": "./js/drpy2.min.js",
             "ext": "./js/蜻蜓FM.js"
+        },
+        {
+            "key": "老白听书",
+            "name": "老白｜听书",
+            "type": 3,
+            "api": "csp_BookLaoBai",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": "https://apk-lb-json.fodexin.com##"
+        },
+        {
+            "key": "爱听听书",
+            "name": "爱听｜听书",
+            "type": 3,
+            "api": "csp_BookYSTS",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            }
         },
         {
             "key": "博看听书",
